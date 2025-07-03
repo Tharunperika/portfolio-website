@@ -87,7 +87,7 @@ const Projects = () => {
         <SiBootstrap className="text-purple-600" />
       ],
       github: "https://github.com/Tharunperika/portfolio-website.git",
-      live: "https://portfolio.netlify.app/"
+      live: "https://tharunperikaportfolio.netlify.app/"
     }
   ];
 
